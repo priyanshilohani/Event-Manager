@@ -1,0 +1,10 @@
+.em-event-card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+
+.em-filter {
+    margin-bottom: 20px;
+}
